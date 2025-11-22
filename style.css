@@ -24,7 +24,7 @@ body {
 }
 
 .header {
-    background-color: rgba(26, 26, 26, 0.9); /* ДОБАВЬ прозрачность */
+    background-color: rgba(26, 26, 26, 0.9); 
     padding: 20px;
     display: flex;
     align-items: center;
@@ -52,7 +52,7 @@ body {
 }
 
 .text-box {
-    background-color: rgba(114, 76, 76, 0.85); /* ИЗМЕНИ с rgb на rgba, последняя цифра — прозрачность */
+    background-color: rgba(114, 76, 76, 0.85); 
     color: white;
     padding: 20px;
     margin: 20px;
@@ -75,11 +75,11 @@ body {
   width: 300px;
   border-radius: 8px;
   margin: 0 0 15px 20px;
- max-width: 100%; /* ДОБАВЬ ЭТУ СТРОКУ */
+ max-width: 100%; 
 }
 
 .footer {
-    background-color: rgba(26, 26, 26, 0.9); /* ДОБАВЬ прозрачность */
+    background-color: rgba(26, 26, 26, 0.9); 
     color: #999999;
     padding: 30px 20px;
     margin-top: 40px;
@@ -121,7 +121,7 @@ body {
   width: 400px;
   border-radius: 8px;
   margin: 0 0 0px 20px;
- max-width: 100%; /* ДОБАВЬ ЭТУ СТРОКУ */
+ max-width: 100%; 
 }
 
 .photo-pilot {
@@ -129,5 +129,5 @@ body {
   width: 450px;
   border-radius: 8px;
   margin: 0 0 15px 20px;
- max-width: 100%; /* ДОБАВЬ ЭТУ СТРОКУ */
+ max-width: 100%; 
 }
